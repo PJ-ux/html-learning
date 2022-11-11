@@ -1,0 +1,14 @@
+
+table {font-family: arial, sans-serif;
+    border-collapse: collapse; border: 1px solid;border-color: gray;
+    width: 30%;  
+
+}
+th {color: whitesmoke; background-color: gray; padding-left: 4px; padding: 15px;
+
+}
+
+td{border: 1px solid gray;text-align: center;padding: 15px;
+
+
+}
